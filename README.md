@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on app creation
 - 📫 How to reach me *here
 - 😄 Pronouns: me
-- ⚡ Fun fact: I was 171171 days old
+- ⚡ Fun fact: I was 17171 days old
 
 <!---
 octo-io/octo-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
